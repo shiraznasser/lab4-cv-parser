@@ -1,0 +1,8 @@
+streamlit
+transformers==4.52.4
+torch
+langchain
+langchain-community
+langchain-core
+langchain-classic
+pypdf
